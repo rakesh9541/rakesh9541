@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Reddy</h1>
-<h3 align="center">A passionate frontend developer and a Competitive programmer.</h3>
+<h3 align="center">A passionate frontend developer,Competitive programmer and ML enthusiast.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
