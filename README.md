@@ -20,18 +20,17 @@
       devOps: ["GitHub", "Prisma"],
       misc: ["Jira"],
     },
-    askMeAbout: ["competitive programming", "web development", "machine learning", "ai"],
+    askMeAbout: ["Full Stack development", "machine learning", "ai"],
 });
 
 ~~~
+![visitors](https://visitorbadge.io/badge?page_id=rakesh9541.rakesh9541)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rakesh9541.rakesh9541)
 
 
 ---
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=rakesh9541&theme=dark&hide_border=true" width = "100%">
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rakesh9541&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
