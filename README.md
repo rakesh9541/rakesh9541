@@ -24,7 +24,7 @@
 });
 
 ~~~
-![visitors](https://visitorbadge.io/badge?page_id=rakesh9541.rakesh9541)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh9541&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh9541" /> </p>
 
 
 
