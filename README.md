@@ -5,23 +5,25 @@
 
 ~~~ js
   const rakesh = () => ({
-    languages: ["C++", "Python", "Java", "HTML/CSS", "JavaScript", "SQL"],
-    technologies: {
-      frontEnd: {
-        js: ["React.js", "EJS", "jQuery", "Socket.IO"],
-        css: ["HTML/CSS"],
-      },
-      backEnd: {
-        core: ["REST APIs"],
-        technologies: ["Node.js", "Express.js"],
-      },
-      databases: ["MySQL", "MongoDB"],
-      libraries: ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "TensorFlow"],
-      devOps: ["GitHub", "Prisma"],
-      misc: ["Jira"],
+  languages: ["C++", "Python", "Java", "HTML/CSS", "JavaScript", "SQL", "TypeScript"],
+  technologies: {
+    frontEnd: {
+      js: ["React.js", "EJS", "jQuery", "Socket.IO"],
+      css: ["HTML/CSS"],
     },
-    askMeAbout: ["Full Stack development", "machine learning", "ai"],
+    backEnd: {
+      core: ["REST APIs"],
+      technologies: ["Node.js", "Express.js"],
+    },
+    databases: ["MySQL", "MongoDB"],
+    libraries: ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "TensorFlow"],
+    devOps: ["GitHub", "Prisma"],
+    misc: ["Jira"],
+  },
+  askMeAbout: ["Full Stack development", "machine learning", "ai"],
 });
+
+
 
 ~~~
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh9541&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh9541" /> </p>
