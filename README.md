@@ -8,7 +8,7 @@
   languages: ["C++", "Python", "Java", "HTML/CSS", "JavaScript", "SQL", "TypeScript"],
   technologies: {
     frontEnd: {
-      js: ["React.js", "EJS", "jQuery", "Socket.IO"],
+      js: ["React.js", "Next.js", "jQuery", "Socket.IO"],
       css: ["HTML/CSS"],
     },
     backEnd: {
@@ -16,12 +16,13 @@
       technologies: ["Node.js", "Express.js"],
     },
     databases: ["MySQL", "MongoDB"],
-    libraries: ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "TensorFlow"],
-    devOps: ["GitHub", "Prisma"],
-    misc: ["Jira"],
+    libraries: ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "LangChain", "Hugging Face"],
+    devOps: ["Git", "GitHub", "Prisma", "Docker", "CI/CD"],
+    misc: ["Linux", "Jira", "LLMs"],
   },
-  askMeAbout: ["Full Stack development", "machine learning", "ai"],
+  askMeAbout: ["Full Stack development", "machine learning", "AI"],
 });
+
 
 
 
